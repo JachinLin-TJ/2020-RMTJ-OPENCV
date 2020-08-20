@@ -1,0 +1,3 @@
+/home/lileyang10/桌面/李乐阳第一次任务/CMakeFiles/rebuild_cache.dir
+/home/lileyang10/桌面/李乐阳第一次任务/CMakeFiles/edit_cache.dir
+/home/lileyang10/桌面/李乐阳第一次任务/CMakeFiles/hello.dir
