@@ -1,3 +1,8 @@
+/**
+ * Task 1: Hello, OpenCV
+ * @author frezcirno
+ */
+
 #include <iostream>
 #include <opencv2/opencv.hpp>
 using namespace cv;
@@ -16,6 +21,7 @@ int main()
 
     putText(img, text, textOrg, fontFace, fontScale, Scalar(0xff, 0xcc, 0x66), thickness, 8);
     imshow(text, img);
+    imwrite("hello.png", img);
     waitKey();
     return 0;
 }
